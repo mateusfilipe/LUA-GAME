@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=jZqYXSmgDuM
 
 https://github.com/cs50/gd50/tree/master/pong
 
-
 <h3>Snake Game:</h3>
 https://www.youtube.com/watch?v=G8g_aD7_Qho
+  
+<h3>Live Coding(Logo):</h3>
+https://www.youtube.com/watch?v=FpxIfCHKGpQ
+
