@@ -1,6 +1,6 @@
 <h1>Trabalho Linguagem de Programação</h1>
 Fazer um jogo baseado em LUA, pra basear na Semana Nacional de Ciência e Tecnologia.
-<h2>Aprendendo LUA e Löve2d:</h2>
+<h2>Aprendendo LUA e Löve2D:</h2>
 https://www.tutorialspoint.com/lua/lua_tutorial.pdf
 
 https://gamedevelopment.tutsplus.com/pt/articles/how-to-learn-love-love2d--gamedev-4331
