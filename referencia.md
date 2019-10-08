@@ -6,7 +6,9 @@ Fazer um jogo baseado em LUA, pra basear na Semana Nacional de Ciência e Tecnol
 <h3>Jogo Zumbi:</h3>
 https://www.youtube.com/watch?v=MU7FIXwaLe4
 
-https://github.com/AlbericDavila/LUA-Projects
+https://github.com/AlbericDavila/LUA-Projects 
+
+https://github.com/AlbericDavila/LUA-Projects/tree/master/zombie
 
 
 <h3>Jogo Pong:</h3>
@@ -18,7 +20,9 @@ https://github.com/cs50/gd50/tree/master/pong
 
 <h3>Snake Game:</h3>
 https://www.youtube.com/watch?v=G8g_aD7_Qho
-  
+
+<b>Escolhido:</b> https://simplegametutorials.github.io/snake/
+
 <h3>Live Coding(Logo):</h3>
 https://www.youtube.com/watch?v=FpxIfCHKGpQ
 
