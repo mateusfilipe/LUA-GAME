@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=G8g_aD7_Qho
 <h3>Live Coding(Logo):</h3>
 https://www.youtube.com/watch?v=FpxIfCHKGpQ
 
+<h3>Flapy Bird</h3>
+https://simplegametutorials.github.io/bird/
+
 <h3>Vários Jogos:</h3>
 https://love2d.org/forums/viewtopic.php?t=83001
 
