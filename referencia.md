@@ -1,6 +1,7 @@
 <h1>Trabalho Linguagem de Programação</h1>
 Fazer um jogo baseado em LUA, pra basear na Semana Nacional de Ciência e Tecnologia.
-
+<h2>Aprendendo LUA:</h2>
+https://www.tutorialspoint.com/lua/lua_tutorial.pdf
 
 <h2>Referências para:</h2>
 <h3>Jogo Zumbi:</h3>
